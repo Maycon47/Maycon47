@@ -24,5 +24,5 @@ Quando não estou mergulhado em desafios profissionais, minha vida é enriquecid
 
 Sinta-se à vontade para se conectar comigo para compartilhar insights, discutir projetos interessantes ou simplesmente trocar ideias.
 
-## 💻 [Portifólio](https://app.xperiun.com/in/httpswwwlinkedincomcompany47consultoriaimplantacaoviewasmembertrue)
+## 💻 [Clique aqui! Para acessar meu portifólio](https://app.xperiun.com/in/httpswwwlinkedincomcompany47consultoriaimplantacaoviewasmembertrue)
 
