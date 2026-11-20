@@ -9,7 +9,7 @@ Minha trajetória combina:
 
 • Estruturação e evolução de ambientes analíticos  
 • Governança e arquitetura de dados  
-• Desenvolvimento de dashboards executivos 
+• Desenvolvimento de dashboards executivos
 • Gestão de demandas e priorização estratégica
 • Interface constante com áreas de negócio e liderança     
 
