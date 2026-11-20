@@ -7,11 +7,11 @@ Profissional de Dados com mais de 10 anos de experiência em tecnologia, logíst
     
 Minha trajetória combina:     
 
-• Estruturação e evolução de ambientes analíticos  
-• Governança e arquitetura de dados  
-• Desenvolvimento de dashboards executivos
-• Gestão de demandas e priorização estratégica
-• Interface constante com áreas de negócio e liderança     
+- Estruturação e evolução de ambientes analíticos
+- Governança e arquitetura de dados
+- Desenvolvimento de dashboards executivos
+- Gestão de demandas e priorização estratégica
+- Interface constante com áreas de negócio e liderança     
 
 Atuei em empresas como Ambev Tech, Serasa e consultorias B2B/B2C, liderando iniciativas que conectam dados à tomada de decisão estratégica. Tenho vivência em ambientes ágeis, definição de roadmap analítico orientado a resultados. 
 
