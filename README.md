@@ -3,24 +3,38 @@
 
 ## Sobre mim
 
-Com uma trajetória profissional enraizada na análise de dados, atualmente desempenho o papel de **Analista de BI Sênior** na **Compass UOL**, onde aplico minha expertise em visualização de dados para traduzir requisitos complexos em insights acionáveis. Meu foco está em desenvolver relatórios interativos e otimizar o desempenho das soluções de BI, garantindo sua eficiência e escalabilidade.
+Profissional de Dados com mais de 10 anos de experiência em tecnologia, logística e analytics, atuando na interseção entre estratégia, produto e inteligência de negócios. 
+    
+Minha trajetória combina:     
 
-Além de minhas responsabilidades técnicas, sou **sócio investidor**, engajando-me em iniciativas que promovem impacto social e fortalecem o comércio local. Minha abordagem colaborativa e orientada para resultados reflete meu compromisso com a excelência e a inovação contínua no campo da inteligência de negócios e análise de dados.
+• Estruturação e evolução de ambientes analíticos  
+• Governança e arquitetura de dados  
+• Desenvolvimento de dashboards executivos 
+• Gestão de demandas e priorização estratégica
+• Interface constante com áreas de negócio e liderança     
 
-## 📚 Aprendiz ao Longo da Vida
+Atuei em empresas como Ambev Tech, Serasa e consultorias B2B/B2C, liderando iniciativas que conectam dados à tomada de decisão estratégica. Tenho vivência em ambientes ágeis, definição de roadmap analítico orientado a resultados. 
 
-Acredito que a aprendizagem é uma jornada contínua. Tenho me dedicado a expandir meu conhecimento no mundo do Business Intelligence, especialmente com o uso do **Power BI da Microsoft**, onde estou envolvido na manutenção de relatórios que fornecem insights valiosos.
+Especialista em Power BI (PL-300), com forte atuação em modelagem dimensional, performance tuning, governança no Power BI Service e integração de múltiplas fontes de dados.
+
+ Minha missão é estruturar ecossistemas de dados escaláveis que apoiem crescimento, eficiência operacional e maturidade analítica.
 
 ### 🎓 Certificações:
 
+- Certificado Microsoft: Analista de Dados Associado de Power BI
 - PSM (Professional Scrum Master)
 - Foundation Workshop Management 3.0
 - AI-Assisted Certified Professional
 - Gen AI Technical Certification
 
+## 📚 Aprendiz ao Longo da Vida
+
+Acredito que a aprendizagem é uma jornada contínua.
+
+
 ## 🌟 Interesses e Hobbies
 
-Quando não estou mergulhado em desafios profissionais, minha vida é enriquecida por uma variedade de interesses. Sou dedicado à minha família, aprecio jogos, leitura, musculação, cinema e explorar novos destinos. Tenho uma paixão por séries, animes e música, e considero esses momentos essenciais para relaxar e refletir.
+Família, jogos, leitura, atividades físicas, cinema e explorar novos destinos. Tenho uma paixão por séries, animes e música, e considero esses momentos essenciais para relaxar e refletir. 
 
 Sinta-se à vontade para se conectar comigo para compartilhar insights, discutir projetos interessantes ou simplesmente trocar ideias.
 
